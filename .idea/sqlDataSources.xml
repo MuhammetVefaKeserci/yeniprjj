@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="675f5330-b402-4e19-8467-bd23d75ac43f" name="asd ">
+      <data-sources db="450ba9f7-dfad-4fe3-a92b-04543f663bb9" />
+      <scope>
+        <node kind="schema" qname="questapp" />
+      </scope>
+    </mapping>
+  </component>
+</project>
